@@ -1,0 +1,162 @@
+[
+	{
+		"currAbbreviation": "USD",
+		"symbol": "$",
+		"currWord": "United States Dollar"
+	},
+	{
+		"currAbbreviation": "JPY",
+		"symbol": "¥",
+		"currWord": "Japanese Yen"
+	},
+	{
+		"currAbbreviation": "BGN",
+		"symbol": "лв",
+		"currWord": "Bulgarian Lev"
+	},
+	{
+		"currAbbreviation": "CZK",
+		"symbol": "Kč",
+		"currWord": "Czech Koruna"
+	},
+	{
+		"currAbbreviation": "DKK",
+		"symbol": "kr",
+		"currWord": "Danish Krone"
+	},
+	{
+		"currAbbreviation": "GBP",
+		"symbol": "£",
+		"currWord": "Great Britain Pound Sterling"
+	},
+	{
+		"currAbbreviation": "HUF",
+		"symbol": "‎Ft",
+		"currWord": "Hungarian Forint"
+	},
+	{
+		"currAbbreviation": "PLN",
+		"symbol": "zł",
+		"currWord": "Poland złoty"
+	},
+	{
+		"currAbbreviation": "RON",
+		"symbol": "L",
+		"currWord": "Romanian leu"
+	},
+	{
+		"currAbbreviation": "SEK",
+		"symbol": "kr",
+		"currWord": "Swedish Krona"
+	},
+	{
+		"currAbbreviation": "CHF",
+		"symbol": "fr",
+		"currWord": "Swiss Franc"
+	},
+	{
+		"currAbbreviation": "ISK",
+		"symbol": "kr",
+		"currWord": "Icelandic Króna"
+	},
+	{
+		"currAbbreviation": "NOK",
+		"symbol": "kr",
+		"currWord": "Norwegian Krone"
+	},
+	{
+		"currAbbreviation": "HRK",
+		"symbol": "kn",
+		"currWord": "Croatian Kuna"
+	},
+	{
+		"currAbbreviation": "RUB",
+		"symbol": "‎₽",
+		"currWord": "Russian Ruble"
+	},
+	{
+		"currAbbreviation": "TRY",
+		"symbol": "‎₺",
+		"currWord": "Turkish Lira"
+	},
+	{
+		"currAbbreviation": "AUD",
+		"symbol": "‎$",
+		"currWord": "Australian Dollar"
+	},
+	{
+		"currAbbreviation": "BRL",
+		"symbol": "‎$",
+		"currWord": "Brazilian Real"
+	},
+	{
+		"currAbbreviation": "CAD",
+		"symbol": "‎$",
+		"currWord": "Canadian Dollar"
+	},
+	{
+		"currAbbreviation": "CNY",
+		"symbol": "¥",
+		"currWord": "Chinese Yuan Renmibi"
+	},
+	{
+		"currAbbreviation": "HKD",
+		"symbol": "$",
+		"currWord": "Hong Kong Dollar"
+	},
+	{
+		"currAbbreviation": "ILS",
+		"symbol": "₪",
+		"currWord": "Israeli Shekel"
+	},
+	{
+		"currAbbreviation": "IDR",
+		"symbol": "Rp",
+		"currWord": "Indonesian Rupiah"
+	},
+	{
+		"currAbbreviation": "INR",
+		"symbol": "₹",
+		"currWord": "Indian Rupee"
+	},
+	{
+		"currAbbreviation": "KRW",
+		"symbol": "₩",
+		"currWord": "South Korean Won"
+	},
+	{
+		"currAbbreviation": "MXN",
+		"symbol": "$",
+		"currWord": "Mexican Peso"
+	},
+	{
+		"currAbbreviation": "MYR",
+		"symbol": "RM",
+		"currWord": "Malaysian Ringgit"
+	},
+	{
+		"currAbbreviation": "NZD",
+		"symbol": "$",
+		"currWord": "New Zealand Dollar"
+	},
+	{
+		"currAbbreviation": "PHP",
+		"symbol": "₱",
+		"currWord": "Philipine Peso"
+	},
+	{
+		"currAbbreviation": "SGD",
+		"symbol": "$",
+		"currWord": "Singapore Dollar"
+	},
+	{
+		"currAbbreviation": "THB",
+		"symbol": "฿",
+		"currWord": "Thai Baht"
+	},
+	{
+		"currAbbreviation": "ZAR",
+		"symbol": "R",
+		"currWord": "South African Rand"
+	}
+]
